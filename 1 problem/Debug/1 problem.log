@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  1 problem.c
+c:\users\dryux\appdata\roaming\microsoft\windows\start menu\programs\c proga\проекты\1 problem\1 problem\1 problem.c(61): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\dryux\appdata\roaming\microsoft\windows\start menu\programs\c proga\проекты\1 problem\1 problem\1 problem.c(8): fatal error C1075: "{": не найдена несоответствующая лексема
